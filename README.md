@@ -1,4 +1,8 @@
 # django-first-project-with-own-views-and-urls
+create virtual environment 
+-- python -m venv foldername
+-- foldername\Scripts\activate
+
 create folder FIRST(project-name)
 
 create "django-admin startproject ram"
